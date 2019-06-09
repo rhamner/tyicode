@@ -2,12 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Robert",
+      "gender": "male",
+      "size": "big"
     },
     {
       "id": 2,
-      "title": "yeah"
-    }
+      "name": "Joysa",
+      "gender": "female",
+      "size": "medium",
+    },
+    {
+      "id": 3,
+      "name": "Liam",
+      "gender": "male",
+      "size": "small"
   ],
   "profile": {
     "name": "typicode"
